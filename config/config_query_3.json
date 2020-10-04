@@ -1,0 +1,6 @@
+{
+    "dsn_path": "../resources/connection_string/db_creds.json",
+    "plot_path": "../resources/plots/report_plot_query_3.png",
+    "templates_path": "../resources/templates",
+    "report_path": "./report_query_3.html"
+}

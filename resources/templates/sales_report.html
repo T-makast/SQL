@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>{{ description }}</h2>
+
+
+<img src="{{ plot_path }}">
+
+<div class="table">
+	<a href="#hide" class="hide btn" id="hide">Показать таблицу</a>
+	<a href="#show" class="show btn" id="show">Скрыть таблицу</a>
+	<div class="spoiler" >
+		{{ table }}
+	</div>
+</div>
+
+{% endblock %}

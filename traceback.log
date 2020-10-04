@@ -1,0 +1,198 @@
+2020-05-05 23:24:13,722 - report_app - INFO - Start configuration query 1
+2020-05-05 23:24:13,723 - report_app - INFO - Finished configuration query 1
+2020-05-05 23:24:13,723 - report_app - INFO - Start making report query 1
+2020-05-05 23:24:13,723 - report_app - INFO - Fetching data query 1
+2020-05-05 23:24:13,969 - report_app - INFO - Fetched data query 1
+2020-05-05 23:24:13,969 - report_app - INFO - Start plotting query 1
+2020-05-05 23:24:14,091 - report_app - INFO - Finished plotting query 1
+2020-05-05 23:24:14,092 - report_app - INFO - Loading templates query 1
+2020-05-05 23:24:14,095 - report_app - INFO - Rendering report query 1
+2020-05-05 23:24:14,100 - report_app - INFO - Rendered report query 1
+2020-05-05 23:24:14,100 - report_app - INFO - Report is ready query 1
+2020-05-05 23:24:15,101 - report_app - INFO - Start configuration query 2
+2020-05-05 23:24:15,101 - report_app - INFO - Start configuration query 2
+2020-05-05 23:24:15,101 - report_app - INFO - Finished configuration query 2
+2020-05-05 23:24:15,101 - report_app - INFO - Finished configuration query 2
+2020-05-05 23:24:15,101 - report_app - INFO - Start making report query 2
+2020-05-05 23:24:15,101 - report_app - INFO - Start making report query 2
+2020-05-05 23:24:15,101 - report_app - INFO - Fetching data query 2
+2020-05-05 23:24:15,101 - report_app - INFO - Fetching data query 2
+2020-05-05 23:24:15,258 - report_app - INFO - Fetched data query 2
+2020-05-05 23:24:15,258 - report_app - INFO - Fetched data query 2
+2020-05-05 23:24:15,258 - report_app - INFO - Start plotting query 2
+2020-05-05 23:24:15,258 - report_app - INFO - Start plotting query 2
+2020-05-05 23:24:15,425 - report_app - INFO - Finished plotting query 2
+2020-05-05 23:24:15,425 - report_app - INFO - Finished plotting query 2
+2020-05-05 23:24:15,426 - report_app - INFO - Loading templates query 2
+2020-05-05 23:24:15,426 - report_app - INFO - Loading templates query 2
+2020-05-05 23:24:15,427 - report_app - INFO - Rendering report query 2
+2020-05-05 23:24:15,427 - report_app - INFO - Rendering report query 2
+2020-05-05 23:24:15,432 - report_app - INFO - Rendered report query 2
+2020-05-05 23:24:15,432 - report_app - INFO - Rendered report query 2
+2020-05-05 23:24:15,432 - report_app - INFO - Report is ready query 2
+2020-05-05 23:24:15,432 - report_app - INFO - Report is ready query 2
+2020-05-05 23:24:16,433 - report_app - INFO - Start configuration query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Start configuration query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Start configuration query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Finished configuration query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Finished configuration query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Finished configuration query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Start making report query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Start making report query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Start making report query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Fetching data query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Fetching data query 3
+2020-05-05 23:24:16,433 - report_app - INFO - Fetching data query 3
+2020-05-05 23:24:16,599 - report_app - INFO - Fetched data query 3
+2020-05-05 23:24:16,599 - report_app - INFO - Fetched data query 3
+2020-05-05 23:24:16,599 - report_app - INFO - Fetched data query 3
+2020-05-05 23:24:16,599 - report_app - INFO - Start plotting query 3
+2020-05-05 23:24:16,599 - report_app - INFO - Start plotting query 3
+2020-05-05 23:24:16,599 - report_app - INFO - Start plotting query 3
+2020-05-05 23:24:16,735 - report_app - INFO - Finished plotting query 3
+2020-05-05 23:24:16,735 - report_app - INFO - Finished plotting query 3
+2020-05-05 23:24:16,735 - report_app - INFO - Finished plotting query 3
+2020-05-05 23:24:16,736 - report_app - INFO - Loading templates query 3
+2020-05-05 23:24:16,736 - report_app - INFO - Loading templates query 3
+2020-05-05 23:24:16,736 - report_app - INFO - Loading templates query 3
+2020-05-05 23:24:16,738 - report_app - INFO - Rendering report query 3
+2020-05-05 23:24:16,738 - report_app - INFO - Rendering report query 3
+2020-05-05 23:24:16,738 - report_app - INFO - Rendering report query 3
+2020-05-05 23:24:16,744 - report_app - INFO - Rendered report query 3
+2020-05-05 23:24:16,744 - report_app - INFO - Rendered report query 3
+2020-05-05 23:24:16,744 - report_app - INFO - Rendered report query 3
+2020-05-05 23:24:16,744 - report_app - INFO - Report is ready query 3
+2020-05-05 23:24:16,744 - report_app - INFO - Report is ready query 3
+2020-05-05 23:24:16,744 - report_app - INFO - Report is ready query 3
+2020-05-05 23:25:33,485 - traceback - INFO - Start configuration query 1
+2020-05-05 23:25:33,485 - traceback - INFO - Finished configuration query 1
+2020-05-05 23:25:33,485 - traceback - INFO - Start making report query 1
+2020-05-05 23:25:33,485 - traceback - INFO - Fetching data query 1
+2020-05-05 23:25:33,738 - traceback - INFO - Fetched data query 1
+2020-05-05 23:25:33,738 - traceback - INFO - Start plotting query 1
+2020-05-05 23:25:33,852 - traceback - INFO - Finished plotting query 1
+2020-05-05 23:25:33,852 - traceback - INFO - Loading templates query 1
+2020-05-05 23:25:33,855 - traceback - INFO - Rendering report query 1
+2020-05-05 23:25:33,858 - traceback - INFO - Rendered report query 1
+2020-05-05 23:25:33,859 - traceback - INFO - Report is ready query 1
+2020-05-05 23:25:34,860 - traceback - INFO - Start configuration query 2
+2020-05-05 23:25:34,860 - traceback - INFO - Start configuration query 2
+2020-05-05 23:25:34,860 - traceback - INFO - Finished configuration query 2
+2020-05-05 23:25:34,860 - traceback - INFO - Finished configuration query 2
+2020-05-05 23:25:34,860 - traceback - INFO - Start making report query 2
+2020-05-05 23:25:34,860 - traceback - INFO - Start making report query 2
+2020-05-05 23:25:34,861 - traceback - INFO - Fetching data query 2
+2020-05-05 23:25:34,861 - traceback - INFO - Fetching data query 2
+2020-05-05 23:25:35,017 - traceback - INFO - Fetched data query 2
+2020-05-05 23:25:35,017 - traceback - INFO - Fetched data query 2
+2020-05-05 23:25:35,017 - traceback - INFO - Start plotting query 2
+2020-05-05 23:25:35,017 - traceback - INFO - Start plotting query 2
+2020-05-05 23:25:35,180 - traceback - INFO - Finished plotting query 2
+2020-05-05 23:25:35,180 - traceback - INFO - Finished plotting query 2
+2020-05-05 23:25:35,180 - traceback - INFO - Loading templates query 2
+2020-05-05 23:25:35,180 - traceback - INFO - Loading templates query 2
+2020-05-05 23:25:35,181 - traceback - INFO - Rendering report query 2
+2020-05-05 23:25:35,181 - traceback - INFO - Rendering report query 2
+2020-05-05 23:25:35,185 - traceback - INFO - Rendered report query 2
+2020-05-05 23:25:35,185 - traceback - INFO - Rendered report query 2
+2020-05-05 23:25:35,185 - traceback - INFO - Report is ready query 2
+2020-05-05 23:25:35,185 - traceback - INFO - Report is ready query 2
+2020-05-05 23:25:36,187 - traceback - INFO - Start configuration query 3
+2020-05-05 23:25:36,187 - traceback - INFO - Start configuration query 3
+2020-05-05 23:25:36,187 - traceback - INFO - Start configuration query 3
+2020-05-05 23:25:36,187 - traceback - INFO - Finished configuration query 3
+2020-05-05 23:25:36,187 - traceback - INFO - Finished configuration query 3
+2020-05-05 23:25:36,187 - traceback - INFO - Finished configuration query 3
+2020-05-05 23:25:36,187 - traceback - INFO - Start making report query 3
+2020-05-05 23:25:36,187 - traceback - INFO - Start making report query 3
+2020-05-05 23:25:36,187 - traceback - INFO - Start making report query 3
+2020-05-05 23:25:36,188 - traceback - INFO - Fetching data query 3
+2020-05-05 23:25:36,188 - traceback - INFO - Fetching data query 3
+2020-05-05 23:25:36,188 - traceback - INFO - Fetching data query 3
+2020-05-05 23:25:36,344 - traceback - INFO - Fetched data query 3
+2020-05-05 23:25:36,344 - traceback - INFO - Fetched data query 3
+2020-05-05 23:25:36,344 - traceback - INFO - Fetched data query 3
+2020-05-05 23:25:36,344 - traceback - INFO - Start plotting query 3
+2020-05-05 23:25:36,344 - traceback - INFO - Start plotting query 3
+2020-05-05 23:25:36,344 - traceback - INFO - Start plotting query 3
+2020-05-05 23:25:36,475 - traceback - INFO - Finished plotting query 3
+2020-05-05 23:25:36,475 - traceback - INFO - Finished plotting query 3
+2020-05-05 23:25:36,475 - traceback - INFO - Finished plotting query 3
+2020-05-05 23:25:36,475 - traceback - INFO - Loading templates query 3
+2020-05-05 23:25:36,475 - traceback - INFO - Loading templates query 3
+2020-05-05 23:25:36,475 - traceback - INFO - Loading templates query 3
+2020-05-05 23:25:36,477 - traceback - INFO - Rendering report query 3
+2020-05-05 23:25:36,477 - traceback - INFO - Rendering report query 3
+2020-05-05 23:25:36,477 - traceback - INFO - Rendering report query 3
+2020-05-05 23:25:36,481 - traceback - INFO - Rendered report query 3
+2020-05-05 23:25:36,481 - traceback - INFO - Rendered report query 3
+2020-05-05 23:25:36,481 - traceback - INFO - Rendered report query 3
+2020-05-05 23:25:36,481 - traceback - INFO - Report is ready query 3
+2020-05-05 23:25:36,481 - traceback - INFO - Report is ready query 3
+2020-05-05 23:25:36,481 - traceback - INFO - Report is ready query 3
+2020-05-05 23:42:41,941 - traceback - INFO - Start configuration query 1
+2020-05-05 23:42:41,942 - traceback - INFO - Finished configuration query 1
+2020-05-05 23:42:41,942 - traceback - INFO - Start making report query 1
+2020-05-05 23:42:41,942 - traceback - INFO - Fetching data query 1
+2020-05-05 23:42:42,191 - traceback - INFO - Fetched data query 1
+2020-05-05 23:42:42,191 - traceback - INFO - Start plotting query 1
+2020-05-05 23:42:42,305 - traceback - INFO - Finished plotting query 1
+2020-05-05 23:42:42,305 - traceback - INFO - Loading templates query 1
+2020-05-05 23:42:42,309 - traceback - INFO - Rendering report query 1
+2020-05-05 23:42:42,312 - traceback - INFO - Rendered report query 1
+2020-05-05 23:42:42,312 - traceback - INFO - Report is ready query 1
+2020-05-05 23:42:43,014 - traceback - INFO - Start configuration query 2
+2020-05-05 23:42:43,014 - traceback - INFO - Start configuration query 2
+2020-05-05 23:42:43,014 - traceback - INFO - Finished configuration query 2
+2020-05-05 23:42:43,014 - traceback - INFO - Finished configuration query 2
+2020-05-05 23:42:43,014 - traceback - INFO - Start making report query 2
+2020-05-05 23:42:43,014 - traceback - INFO - Start making report query 2
+2020-05-05 23:42:43,014 - traceback - INFO - Fetching data query 2
+2020-05-05 23:42:43,014 - traceback - INFO - Fetching data query 2
+2020-05-05 23:42:43,171 - traceback - INFO - Fetched data query 2
+2020-05-05 23:42:43,171 - traceback - INFO - Fetched data query 2
+2020-05-05 23:42:43,171 - traceback - INFO - Start plotting query 2
+2020-05-05 23:42:43,171 - traceback - INFO - Start plotting query 2
+2020-05-05 23:42:43,336 - traceback - INFO - Finished plotting query 2
+2020-05-05 23:42:43,336 - traceback - INFO - Finished plotting query 2
+2020-05-05 23:42:43,336 - traceback - INFO - Loading templates query 2
+2020-05-05 23:42:43,336 - traceback - INFO - Loading templates query 2
+2020-05-05 23:42:43,338 - traceback - INFO - Rendering report query 2
+2020-05-05 23:42:43,338 - traceback - INFO - Rendering report query 2
+2020-05-05 23:42:43,342 - traceback - INFO - Rendered report query 2
+2020-05-05 23:42:43,342 - traceback - INFO - Rendered report query 2
+2020-05-05 23:42:43,342 - traceback - INFO - Report is ready query 2
+2020-05-05 23:42:43,342 - traceback - INFO - Report is ready query 2
+2020-05-05 23:42:44,044 - traceback - INFO - Start configuration query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Start configuration query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Start configuration query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Finished configuration query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Finished configuration query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Finished configuration query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Start making report query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Start making report query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Start making report query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Fetching data query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Fetching data query 3
+2020-05-05 23:42:44,044 - traceback - INFO - Fetching data query 3
+2020-05-05 23:42:44,203 - traceback - INFO - Fetched data query 3
+2020-05-05 23:42:44,203 - traceback - INFO - Fetched data query 3
+2020-05-05 23:42:44,203 - traceback - INFO - Fetched data query 3
+2020-05-05 23:42:44,203 - traceback - INFO - Start plotting query 3
+2020-05-05 23:42:44,203 - traceback - INFO - Start plotting query 3
+2020-05-05 23:42:44,203 - traceback - INFO - Start plotting query 3
+2020-05-05 23:42:44,339 - traceback - INFO - Finished plotting query 3
+2020-05-05 23:42:44,339 - traceback - INFO - Finished plotting query 3
+2020-05-05 23:42:44,339 - traceback - INFO - Finished plotting query 3
+2020-05-05 23:42:44,339 - traceback - INFO - Loading templates query 3
+2020-05-05 23:42:44,339 - traceback - INFO - Loading templates query 3
+2020-05-05 23:42:44,339 - traceback - INFO - Loading templates query 3
+2020-05-05 23:42:44,341 - traceback - INFO - Rendering report query 3
+2020-05-05 23:42:44,341 - traceback - INFO - Rendering report query 3
+2020-05-05 23:42:44,341 - traceback - INFO - Rendering report query 3
+2020-05-05 23:42:44,346 - traceback - INFO - Rendered report query 3
+2020-05-05 23:42:44,346 - traceback - INFO - Rendered report query 3
+2020-05-05 23:42:44,346 - traceback - INFO - Rendered report query 3
+2020-05-05 23:42:44,346 - traceback - INFO - Report is ready query 3
+2020-05-05 23:42:44,346 - traceback - INFO - Report is ready query 3
+2020-05-05 23:42:44,346 - traceback - INFO - Report is ready query 3
